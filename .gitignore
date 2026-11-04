@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python / Backend
+**/__pycache__/
+*.py[cod]
+.venv/
+uzinstock-backend/.venv/
+uzinstock-backend/.pytest_cache/
+uzinstock-backend/.env
+uzinstock-backend/*.db.bak
+
+# Flutter / Dart
+uzinstock_app/build/
+uzinstock_app/.dart_tool/
+uzinstock_app/.flutter-plugins
+uzinstock_app/.flutter-plugins-dependencies
+uzinstock_app/.packages
+uzinstock_app/android/.gradle/
+uzinstock_app/android/local.properties
+uzinstock_app/ios/Pods/
+uzinstock_app/macos/Pods/
+
