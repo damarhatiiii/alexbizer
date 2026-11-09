@@ -1,0 +1,6 @@
+Algoritma,MAE,MSE,RMSE,R2_Score,Akurasi_ROP (%),F1_Score_ROP (%)
+Random Forest Regressor (Proposed),0.2256,0.218,0.4669,0.791,98.24,97.2
+Decision Tree Regressor,0.253,0.2407,0.4906,0.7692,97.96,96.76
+Support Vector Regressor (SVR),0.2604,0.2682,0.5179,0.7428,97.2,95.61
+Baseline Moving Average (MA-7),0.2323,0.3372,0.5807,0.6766,98.29,97.26
+K-Nearest Neighbors (KNN),0.338,0.3482,0.5901,0.6661,96.82,94.96

@@ -1,0 +1,108 @@
+{
+  "model_and_simulation": {
+    "n_skus_modeled": 56,
+    "n_train": 8044,
+    "n_test": 2039,
+    "sigma_residual": 1.1097,
+    "hyperparameters": {
+      "n_estimators": 300,
+      "max_depth": 5,
+      "min_samples_leaf": 25,
+      "random_state": 42,
+      "service_level_z": 1.65
+    },
+    "metrics_rf": {
+      "MAE": 0.7614,
+      "RMSE": 1.09,
+      "sMAPE_pct": 93.73,
+      "R2": -0.0221,
+      "coverage_80_pct": 90.68,
+      "coverage_90_pct": 94.21
+    },
+    "metrics_baseline_ma7": {
+      "MAE": 0.8522,
+      "RMSE": 1.41,
+      "sMAPE_pct": 99.11,
+      "R2": -0.7102
+    },
+    "rop_simulation": {
+      "total_sku_test_days": 2039,
+      "rf_with_safety_stock": {
+        "stockout_days": 24,
+        "stockout_rate_pct": 1.18,
+        "fill_rate_pct": 99.81
+      },
+      "baseline_ma7_no_safety": {
+        "stockout_days": 71,
+        "stockout_rate_pct": 3.48,
+        "fill_rate_pct": 93.79
+      }
+    }
+  },
+  "latency_and_stress_test": {
+    "per_endpoint": {
+      "GET /health": {
+        "requests": 60,
+        "p50_ms": 0.33,
+        "p95_ms": 0.44,
+        "p99_ms": 0.58,
+        "mean_ms": 0.35,
+        "throughput_rps": 2879.49,
+        "error_rate_pct": 0.0
+      },
+      "GET /api/v1/items": {
+        "requests": 60,
+        "p50_ms": 1.6,
+        "p95_ms": 1.78,
+        "p99_ms": 3.13,
+        "mean_ms": 1.68,
+        "throughput_rps": 594.68,
+        "error_rate_pct": 0.0
+      },
+      "GET /api/v1/transactions": {
+        "requests": 60,
+        "p50_ms": 3.69,
+        "p95_ms": 3.92,
+        "p99_ms": 6.54,
+        "mean_ms": 3.83,
+        "throughput_rps": 261.25,
+        "error_rate_pct": 0.0
+      },
+      "GET /api/v1/predictions/latest": {
+        "requests": 60,
+        "p50_ms": 9.72,
+        "p95_ms": 17.61,
+        "p99_ms": 25.35,
+        "mean_ms": 10.89,
+        "throughput_rps": 91.81,
+        "error_rate_pct": 0.0
+      },
+      "POST /api/v1/predictions/reorder-point/53": {
+        "requests": 30,
+        "p50_ms": 19.51,
+        "p95_ms": 31.83,
+        "p99_ms": 32.15,
+        "mean_ms": 23.2,
+        "throughput_rps": 43.1,
+        "error_rate_pct": 0.0
+      }
+    },
+    "overall_sequential": {
+      "total_requests": 270,
+      "p50_ms": 3.66,
+      "p95_ms": 21.97,
+      "p99_ms": 31.24,
+      "throughput_rps": 90.6,
+      "error_rate_pct": 0.0
+    },
+    "concurrent_stress_10_workers": {
+      "total_requests": 100,
+      "p50_ms": 81.76,
+      "p95_ms": 281.32,
+      "p99_ms": 292.77,
+      "throughput_rps": 78.25,
+      "error_rate_pct": 0.0,
+      "peak_memory_mb": 190.16
+    }
+  }
+}

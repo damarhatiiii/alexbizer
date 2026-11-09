@@ -1,0 +1,89 @@
+sku,nama_barang,kategori,satuan,stok_akhir,prediksi_permintaan_harian,safety_stock,reorder_point_rop,status
+UM-0300-M,Uzin SC 50 @40 Kg-M,Barang Jadi,sak,174,26.72,263,451,REORDER
+UM-0307-M,Uzin SC 75 @40 Kg-M,Barang Jadi,sak,258,20.31,143,286,REORDER
+UM-0310-M,Uzin SC 100 @40 Kg-M,Barang Jadi,sak,67,16.26,46,160,REORDER
+UM-0311-M,Uzin SC 100 W @40 Kg-M,Barang Jadi,sak,3,1.1,81,89,REORDER
+UM-0330-M,Uzin SC 300 @40Kg-M,Barang Jadi,sak,53,11.72,36,119,REORDER
+FG-TB20,TB 20,Barang Jadi,sak,136,24.09,184,353,REORDER
+UM-0200-M,Uzin Plaster @50 Kg-M,Barang Jadi,sak,424,63.4,407,851,REORDER
+UM-0400-M,Uzin Screed @50 Kg-M,Barang Jadi,sak,139,51.08,297,655,REORDER
+UM-0510-M,Uzin Bond  @50 Kg-M,Barang Jadi,sak,130,2.96,214,235,REORDER
+FG-B.Floor,B. Floor,Barang Jadi,sak,355,92.9,363,1014,REORDER
+"FG-B,Plus","B, Plus",Barang Jadi,sak,19,4.77,100,134,REORDER
+UM-0257-M,Uzin Heritage Plaster  @25 Kg-M,Barang Jadi,sak,25,0.0,0,0,AMAN
+US-0125-M,Uzin SL 100 @25 Kg-M,Barang Jadi,sak,25,0.0,0,0,AMAN
+US-0215-M,Uzin SL 250 @25 Kg-M,Barang Jadi,sak,23,2.0,0,14,AMAN
+FG-SC01,SC 01,Barang Jadi,sak,0,1.0,0,7,REORDER
+UW-0102-M,Uzin Primer @5Kg-M,Barang Jadi,sak,0,12.0,0,84,REORDER
+UC-0032-M,Uzin PE 360 @5Kg-M,Barang Jadi,sak,0,0.19,2,4,REORDER
+FG-LS400G,Uzin LS 400 @20Kg-M,Barang Jadi,sak,457,0.0,0,0,AMAN
+FG-LS5015Kg,LS 501 5 Kg,Barang Jadi,sak,11,0.73,11,17,REORDER
+US-0301-M,Uzin LS 500 White @20Kg-M,Barang Jadi,sak,714,10.4,95,168,AMAN
+FG-LS500w25KgV,Uzin LS 500 White @25Kg-M VIETNAM,Barang Jadi,sak,148,0.91,55,62,AMAN
+FG-LS500G25Kg,LS 500 G 25 Kg,Barang Jadi,sak,0,2.0,0,14,REORDER
+FG-LS500LG25Kg,LS 500 LG 25 Kg,Barang Jadi,sak,7,23.01,174,336,REORDER
+LS-0003-M,Uzin LS 600 Cream @25Kg-M,Barang Jadi,sak,0,1.0,0,7,REORDER
+LS-0003-M#2,Uzin LS 600 LG @25Kg-M,Barang Jadi,sak,0,1.0,0,7,REORDER
+LS-0003-M#3,Uzin LS 600 White @25Kg-M,Barang Jadi,sak,476,0.34,15,18,AMAN
+LS-0001-M,Uzin LS 600 Grey @25Kg-M,Barang Jadi,sak,60,0.0,0,0,AMAN
+BB-OPC09,Semen Putih 1@M,Bahan Baku,kg,549,127.77,499,1394,REORDER
+BB-OPC02,Semen Curah OPC Type 1@M,Bahan Baku,kg,61490,3696.59,11539,37416,AMAN
+BB-PCC01-M,GGBFS @M,Bahan Baku,kg,22662,38.91,617,890,AMAN
+BB-CCO08-M,Caco3 Mesh 8-Karung@M,Bahan Baku,kg,17245,2269.03,8956,24840,REORDER
+BB-CCO15-M,Caco3 Mesh 200 - Karumg @M,Bahan Baku,kg,7000,2260.72,9919,25745,REORDER
+BB-CCO17-M,Caco3 Mesh 325 @M,Bahan Baku,kg,4000,372.8,2243,4853,REORDER
+BB-CCO10-M,Omya Carb 15 @40Kg-M,Bahan Baku,kg,15424,85.47,1955,2554,AMAN
+BB-BTB01-M,Puing Bata,Bahan Baku,kg,25,9.26,154,219,REORDER
+BB-BTR01-M,Bata Rijeck,Bahan Baku,kg,9,15.76,161,272,REORDER
+BB-CCO16-M,Pealite CGO,Bahan Baku,kg,168,2.31,67,84,AMAN
+BB-CCO13-M,Pealite IG,Bahan Baku,kg,0,40.0,132,412,REORDER
+BB-PSR04,Pasir Lampung 8 Los @M,Bahan Baku,kg,0,895.2,3349,9616,REORDER
+BB-PSR05-M,Pasir Lampung 30 Los @M,Bahan Baku,kg,323179,5656.16,21503,61097,AMAN
+BB-PSR06M,Pasir Bengkulu @M,Bahan Baku,kg,20396,85.15,2400,2997,AMAN
+BB-KRG01-M,50x80/10x10/800 1sisi 1 warna Uz. TB 20 @M,Bahan Baku,kg,6525,9.25,140,205,AMAN
+BB-KRG02-M,50x80/10x10/800 1sisi 1 warna Uz. Plaster @M,Bahan Baku,kg,5731,114.11,432,1231,AMAN
+BB-KRG03-M,50x80/10x10/800 1sisi 1 warna Uz. Screed @M,Bahan Baku,kg,7612,98.97,264,957,AMAN
+BB-KRG23-M,40x65/11x11/800 Laminasi  Uz. Screed Lite @M,Bahan Baku,kg,10106,91.33,928,1568,AMAN
+BB-KRG24-M,40x65/11x11/600  Uz. Screed Lite @M,Bahan Baku,kg,0,204.79,538,1972,REORDER
+BB-KRG04-M,50X80/10X10/800 1 SISI 1 WARNA UZ. BOND@M,Bahan Baku,kg,3081,12.09,288,373,AMAN
+BB-KRG05-M,50x80/10x10/800 1sisi 1 warna Uz. Bond Floor @M,Bahan Baku,kg,10,95.43,359,1028,REORDER
+BB-KRG014-M,"50x85/10x10/800 Laminating 20 mic, 1 sisi 1 warna Uz. SC 50 @M",Bahan Baku,kg,3859,45.62,270,590,AMAN
+BB-KRG015-M,"50x85/10x10/800 Laminating 20 mic, 1 sisi 1 warna Uz. SC 75 @M",Bahan Baku,kg,4948,45.36,189,507,AMAN
+BB-KRG016-M,"50x85/10x10/800 Laminating 20 mic, 1 sisi 1 warna Uz. SC 100 @M",Bahan Baku,kg,4414,13.63,225,321,AMAN
+BB-KRG17-M,50X85/10X10/800 1 SISI 1 WARNA UZ. SC 300@M,Bahan Baku,kg,862,15.59,77,187,AMAN
+BB-KRG018-M,"40x60/11x11/800 Laminating 20 mic, 1 sisi 1 warna Uz. SL 100 @M",Bahan Baku,kg,0,975.0,0,6825,REORDER
+BB-ZAK15M,485x365x115MM Uzin Bond Plus@M,Bahan Baku,kg,1482,15.62,249,359,AMAN
+BB-ZAK16-M,460x350x110MM Polos@M,Bahan Baku,kg,15,3.33,336,360,REORDER
+BB-ZAK18,470x370x120MM Uzin LS 600@M,Bahan Baku,kg,1665,75.0,0,525,AMAN
+BB-ZAK17,50x40x10CM Uzin LS 500@M,Bahan Baku,kg,456,28.99,232,435,AMAN
+BB-INN01-M,"Kantong Plastik HD 30x60x0,06@M",Bahan Baku,kg,176,4.18,16,46,AMAN
+BB-INN02-M,"Inner HDPE Uk, 50x90 Seal 1cm 15-20Mic @M",Bahan Baku,kg,165,3.82,17,44,AMAN
+BB-BNG01-M,BENAMG JAHIT KARUNG,Bahan Baku,kg,2,0.81,3,9,REORDER
+BB-BNG02-M,Fiber,Bahan Baku,kg,286,0.92,11,18,AMAN
+BB-MC01-M,"CELLUAST MH 40,000@M",Bahan Baku,kg,5875,18.55,91,221,AMAN
+BB-MC04-M,HPMC MH 100 PS@M,Bahan Baku,kg,36,14.0,0,98,REORDER
+BB-MC03-M,Headcell E379,Bahan Baku,kg,0,11.07,57,135,REORDER
+BB-FLO01-M,MAHA PNS 0301@M,Bahan Baku,kg,0,4.99,31,66,REORDER
+BB-FLO03-M,SNF - A@M,Bahan Baku,kg,4872,4.07,19,48,AMAN
+BB-ADD03-M,CALCIUM FORMATE@M,Bahan Baku,kg,1599,21.85,85,238,AMAN
+BB-ADD08-M,HPS 301@M,Bahan Baku,kg,0,3.03,10,32,REORDER
+BB-ADD08A-M,STRACK ETHER@M,Bahan Baku,kg,2161,0.2,23,25,AMAN
+BB-RDP01-M,VAE DA 1100@25 Kg@M,Bahan Baku,kg,0,599.67,3281,7479,REORDER
+BB-RDP02-M,REDISPOSIBEL POLIMER ZJ-6015@M,Bahan Baku,kg,9167,13.66,131,227,AMAN
+BB-RDP06-M,Elotex FL 2211@M,Bahan Baku,kg,4370,6.82,93,141,AMAN
+BB-RDP04-M,Vinnapas 5112@M,Bahan Baku,kg,2759,5.24,138,175,AMAN
+BB-RDP05-M,ELOTEX FX 2350@M,Bahan Baku,kg,1200,0.0,0,0,AMAN
+BB-SLR01-M,SOLAR HIGH SPEED DIESEL @M,Bahan Baku,kg,100,5.81,38,79,AMAN
+BB-SLR01-M#2,SOLAR HIGH SPEED DIESEL N 51@M,Bahan Baku,kg,0,6.26,35,79,REORDER
+BB-PWD01-M,Iron Oxide Black T 195@M,Bahan Baku,kg,20,0.62,6,11,AMAN
+BB-PWD06-M,Titanium Tiona 595@M,Bahan Baku,kg,393,5.14,27,63,AMAN
+BB-ALU001-M,SECAR 71@M,Bahan Baku,kg,2779,27.13,516,706,AMAN
+BB-BIN12,Stone Dense Saeler,Bahan Baku,kg,990,10.0,0,70,AMAN
+BB-JRG05M,Jerigen 5 Liter Biru MB5418 + Strip Line @M,Bahan Baku,kg,95,5.0,0,35,AMAN
+BB-PAL02M,Pail 6 Kg@M,Bahan Baku,kg,88,1.74,44,57,AMAN
+BB-BIN01M,Acronal S 296 D ap @150 Kg@M,Bahan Baku,kg,150,0.0,0,0,AMAN
+BB-WTR05M,SKY BIO PG520@M,Bahan Baku,kg,20,0.0,0,0,AMAN
+BB-ADD02M,Agitan DF 6681@130Kg@M,Bahan Baku,kg,20,0.0,0,0,AMAN
+RM-MalekiTZ,Maleki Terazzo Compoun 25% @M,Bahan Baku,kg,611,55.1,716,1102,REORDER
+RM-MalekiDFS,Maleki DFS 430 15% @M,Bahan Baku,kg,4325,17.16,579,700,AMAN
+RM-MalekiMV100,Maleki DFS 430 15% @M,Bahan Baku,kg,226,4.33,44,75,AMAN

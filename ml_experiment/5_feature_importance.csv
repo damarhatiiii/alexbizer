@@ -1,0 +1,10 @@
+Fitur,Importance,Persentase (%)
+roll_mean_7,0.8981,89.81
+lag_6,0.0818,8.18
+roll_mean_30,0.006,0.6
+roll_std_7,0.0046,0.46
+next_month,0.0033,0.33
+next_dow,0.0028,0.28
+lag_0,0.0021,0.21
+lag_13,0.0013,0.13
+lead_time,0.0,0.0
